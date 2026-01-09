@@ -1,7 +1,7 @@
 
 # Restaurant Website Template 
 
-#### A landing page template for a restaurant, Anita's Kitchen. It employs the use of HTML, CSS and Javascript to build it
+#### A landing page template for a restaurant website. It employs the use of HTML, CSS and Javascript to build it
 
 
 ## Description
