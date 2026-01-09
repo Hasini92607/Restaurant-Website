@@ -1,9 +1,8 @@
 
-# Restaurant Website Template (Anita's Kitchen)
+# Restaurant Website Template 
 
-#### A landing page template for a restaurant, Anita's Kitchen. It employs the use of HTML, CSS and Javascript to build it. 14-08-2017
+#### A landing page template for a restaurant, Anita's Kitchen. It employs the use of HTML, CSS and Javascript to build it
 
-#### By **Mary Ng'ang'a**
 
 ## Description
 The website, a landing page for Anita's Kitchen's is divided into the following sections:
@@ -39,7 +38,4 @@ There are no known bugs.
 * JAVASCRIPT
 * jQUERY
 
-### License
 
-
-MIT (c) [Mary Ng'ang'a](https://github.com/marynganga) 
